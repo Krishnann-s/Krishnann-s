@@ -17,10 +17,8 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/krishnan-saravanan/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 <h2>😀 My little Achievements </h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Krishnann-s&show_icons=true&locale=en" alt="Krishnann-s" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnann-s&" alt="Krishnann-s" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishnann-s&show_icons=true&locale=en&layout=compact" alt="Krishnann-s" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krishnann-s" alt="Krishnann-s" /></a></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Krishnann-s&show_icons=true&locale=en" alt="Krishnann-s" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnann-s&" alt="Krishnann-s" /></p>
 
 <!-- Footer -->
 <footer align="center">
