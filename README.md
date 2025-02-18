@@ -1,7 +1,7 @@
-<h1>Hi 👋, I'm Krishnan</h1>
+<h1 align="center">Hi 👋, I'm Krishnan</h1>
 <p>Software Engineer specializing in backend development using Java and Spring Boot. Proficient in frontend technologies like React.js, capable of developing and delivering full-stack applications. <br /> Experienced in building scalable microservices, implementing robust authentication, and crafting user-friendly interfaces. <br /> Passionate about exploring emerging technologies and delivering innovative solutions.</p>
 <h2>Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" style="margin-right: 20px;" /></a>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" style="margin-right: 20px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" style="margin-right: 20px;" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" style="margin-right: 20px;" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" style="margin-right: 20px;" /></a>
@@ -24,6 +24,6 @@
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krishnann-s" alt="Krishnann-s" /></a></p>
 
 <!-- Footer -->
-<footer style="text-align: center; margin-top: 20px;">
+<footer align="center">
   <p style="font-size: 20px; font-weight: bold;">ありがとう for visiting!</p>
 </footer>
