@@ -17,10 +17,10 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/krishnan-saravanan/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 <h2>😀 My little Achievements </h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Krishnann-s&show_icons=true&locale=en" alt="Krishnann-s" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnann-s&" alt="Krishnann-s" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Krishnann-s&show_icons=true&locale=en" alt="Krishnann-s" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnann-s&" alt="Krishnann-s" /></p>
 
 <!-- Footer -->
-<footer align="center">
-  <p style="font-size: 20px; font-weight: bold;">ありがとう for visiting!</p>
+<footer>
+  <p align="center">ありがとう for visiting!</p>
 </footer>
