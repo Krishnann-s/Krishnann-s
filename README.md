@@ -100,5 +100,5 @@
 </footer>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Krishnann-S&style=for-the-badge&base=58" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Krishnann-S&style=for-the-badge&label=PROFILE+VIEWS&base=58" alt="Profile views" />
 </p>
