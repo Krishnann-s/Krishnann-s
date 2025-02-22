@@ -4,10 +4,9 @@
 
 <h2><b> Connect with me </b></h2>
 <p>
-<a target="_blank" href="https://linkedin.com/in/krishnan-saravanan" style="display: inline-block;"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://stackoverflow.com/users/28456317/krishnan-s" style="display: inline-block;"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="stackoverflow"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="mailto:krishnan.spu@gmail.com" style="display:inline-block;"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://www.reddit.com/user/Klutzy_Hovercraft_61/" style="display:inline-block;"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"></a>
+<a target="_blank" href="https://linkedin.com/in/krishnan-saravanan" style="display: inline-block;"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/SVG/Color/LinkedIN.svg" width=34px height=34px alt="linkedin"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="mailto:krishnan.spu@gmail.com" style="display:inline-block;"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/SVG/Color/Gmail.svg" width=34px height=34px alt="Gmail"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://www.reddit.com/user/Klutzy_Hovercraft_61/" style="display:inline-block;"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg" alt="Reddit"></a>
 </p>
 
 <h2><b> Languages and Tools I Use </b></h2>
