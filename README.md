@@ -88,8 +88,9 @@
 
 <h2><b>😀 Daily Activities </b></h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Krishnann-s&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width=44% alt="Krishnann-s" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnann-s&theme=dark&hide_border=false" width=49% alt="Krishnann-s" />
+<img src="https://github-readme-stats.vercel.app/api?username=Krishnann-s&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" width=44% alt="Krishnann-s" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnann-s&theme=dracula&hide_border=false" width=49% alt="Krishnann-s" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnann-s&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 <!-- Footer -->
@@ -97,3 +98,7 @@
   <p align="center">ありがとう for visiting!</p>
   <p align="center"><em>Thank you for visiting!</em></p>
 </footer>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Krishnann-S&style=for-the-badge&base=58" alt="Profile views" />
+</p>
