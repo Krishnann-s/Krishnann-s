@@ -10,8 +10,7 @@
 <a target="_blank" href="https://www.reddit.com/user/Klutzy_Hovercraft_61/" style="display:inline-block;"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"></a>
 </p>
 
-<details>
-<summary><b>## Languages and Tools I Use </b></summary>
+<h2><b> Languages and Tools I Use </b></h2>
 <h3> Programming Languages </h3>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -86,8 +85,6 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-right: 20px;" />
   </a>
 </p>
-</details>
-
 
 
 <h2><b>😀 Daily Activities </b></h2>
