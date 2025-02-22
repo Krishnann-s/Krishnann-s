@@ -11,7 +11,7 @@
 </p>
 
 <details>
-<summary><b><span style="font-size: 30px;">Languages and Tools I Use </span></b></summary>
+<summary><b>## Languages and Tools I Use </b></summary>
 <h3> Programming Languages </h3>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
