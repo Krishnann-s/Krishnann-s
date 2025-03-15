@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishnan</h1>
-<p style="font-size:20px;">Backend-focused Software Engineer skilled in Java, Spring Boot & microservices. Proficient in React.js for full-stack development. Passionate about building scalable, secure, and user-friendly applications while exploring new technologies!</p>
+<p style="font-size:20px;">Full-Stack Software Engineer skilled in Java, Spring Boot, and microservices, with React.js for frontend development. Experienced in Docker for containerization and AWS for cloud solutions. Passionate about building scalable, secure, and user-friendly applications while continuously exploring new technologies!</p>
 
 
 <h2><b> Connect with me </b></h2>
